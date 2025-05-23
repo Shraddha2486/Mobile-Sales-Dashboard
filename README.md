@@ -37,7 +37,16 @@ This dashboard includes **interactive buttons** that allow users to:
 
 The final output is a professional, interactive Power BI dashboard designed to aid business decisions and performance monitoring.
 
-## 📸 Dashboard Screenshots
-
+### 📸 Dashboard Screenshots
 
 > 🔗 **Note:** This project is a part of my learning journey in data analytics and business intelligence.
+## 📸 Dashboard Screenshots
+
+### 🔹 1] 
+![Main Dashboard](dashboard.png)
+
+### 🔹 2]
+![MTD Dashboard](mtd-report.png)
+
+### 🔹 3] 
+![Yearly Comparison Dashboard](same-period-last-year.png)
