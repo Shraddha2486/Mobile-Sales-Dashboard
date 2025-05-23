@@ -43,10 +43,10 @@ The final output is a professional, interactive Power BI dashboard designed to a
 ## 📸 Dashboard Screenshots
 
 ### 🔹 1] 
-![Main Dashboard](dashboard.png)
+![Main Dashboard](Dashboard.png)
 
 ### 🔹 2]
-![MTD Dashboard](mtd-report.png)
+![MTD Dashboard](MTD-Report.png)
 
 ### 🔹 3] 
-![Yearly Comparison Dashboard](same-period-last-year.png)
+![Yearly Comparison Dashboard](Same-period-last-year.png)
