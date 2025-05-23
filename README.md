@@ -46,7 +46,7 @@ The final output is a professional, interactive Power BI dashboard designed to a
 ![Main Dashboard](Dashboard.png)
 
 ### 🔹 2]
-![MTD Dashboard](MTD-Report.png)
+![MTD Dashboard](MTD%20Report.png)
 
 ### 🔹 3] 
-![Yearly Comparison Dashboard](Same-period-last-year.png)
+![Yearly Comparison Dashboard](Same%20period%20last%20year.png)
